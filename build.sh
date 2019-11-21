@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-sbcl --noinform <<EOF
+sbcl --quit --noinform <<EOF
 (ql:quickload :cl-repl)
 (save-lisp-and-die "cl-repl"
   :executable t

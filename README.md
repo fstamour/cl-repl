@@ -100,14 +100,14 @@ We've made sure the following editors work properly.
 Don't hesitate to open issues or to send PRs.
 Any suggestions are always welcomed.
 
+# Testing
+
+./run-expect-tests.sh
+
 # Author
 [TANI Kojiro](https://github.com/koji-kojiro) (kojiro0531@gmail.com)
 [Francis St-Amour](https://github.com/fstamour)
 
 # License
 CL-REPL is distributed under [GPLv3](./LICENSE).
-
-
-
-
 

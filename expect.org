@@ -1,0 +1,13 @@
+* [[https://en.wikipedia.org/wiki/Expect][Expect]]
+
+** How to run the tests
+
+./run-expect-tests.sh
+  
+** To automatically create expect scripts
+
+ autoexpect ./cl-repl
+ 
+Which generates a file "script.exp", if you're satisfied you can
+rename it and move it into the "tests" folder.
+
